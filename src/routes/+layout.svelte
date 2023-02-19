@@ -6,8 +6,11 @@
 <main>
   <nav>
     <a href="/">Home</a>
-    <a href="/about">About</a>
+    <a href="/about">about</a>
+    <a href="/api">api</a>
+    <a href="/useApi">use api</a>
     <a href="/another">another</a>
+    <a href="/loading">loading</a>
   </nav>
   <slot />
 </main>
